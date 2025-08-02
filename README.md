@@ -23,3 +23,8 @@ Rencana pengimplementasian pada project kali ini akan memakai mobile apss yang t
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/263c15ff-da27-4425-a548-23764c496ec1" />
 
 Desain apk akan mengambil refrensi dari extension crhome yang mendeteksi suhu disekitar
+
+# SENSOR UDARA
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/32a3b71e-2b57-4209-b1af-142965fe1217" />
+
