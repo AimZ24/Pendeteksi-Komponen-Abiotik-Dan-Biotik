@@ -1,4 +1,3 @@
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/a90af620-fee5-421c-90fa-8610ab3da161" />
 
 # Pendeteksi-Komponen-Abiotik-Dan-Biotik
 
@@ -21,6 +20,6 @@ Sistem pendeteksi komponen biotik dan abiotik ini dirancang untuk memantau kondi
 Rencana pengimplementasian pada project kali ini akan memakai mobile apss yang tersambung ke bluetooth.
 
 # DESAIN APK
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/263c15ff-da27-4425-a548-23764c496ec1" />
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/263c15ff-da27-4425-a548-23764c496ec1" />
 
 Desain apk akan mengambil refrensi dari extension crhome yang mendeteksi suhu disekitar
