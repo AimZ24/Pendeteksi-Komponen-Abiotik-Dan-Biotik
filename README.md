@@ -19,13 +19,14 @@ Sistem pendeteksi komponen biotik dan abiotik ini dirancang untuk memantau kondi
 
 Rencana pengimplementasian pada project kali ini akan memakai mobile apss yang tersambung ke bluetooth.
 
-# DESAIN APK
-![WhatsApp Image 2025-09-20 at 22 49 50](https://github.com/user-attachments/assets/c0fcb1af-81c2-4c69-8df7-cc327e7bc7e2)
+# Desain Aplikasi
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/7ad1e8b3-f07d-4c93-aac3-3d134c4bf431" />
+
 
 
 Desain apk akan mengambil refrensi dari extension crhome yang mendeteksi suhu disekitar
 
-# KESULURUHAN OUTPUT SENSOR 
+# Kesulurhan Output Sensor
 <img width="438" height="135" alt="image" src="https://github.com/user-attachments/assets/0bce8e1f-19f4-458a-9119-9896f21ed971" />
 
 
